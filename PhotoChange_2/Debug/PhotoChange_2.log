@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\user\Desktop\PhotoChange_2\PhotoChange_2\main.cpp(30): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\user\Desktop\PhotoChange_2\PhotoChange_2\main.cpp(31): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\user\Desktop\PhotoChange_2\PhotoChange_2\main.cpp(33): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\user\Desktop\PhotoChange_2\PhotoChange_2\main.cpp(37): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\user\Desktop\PhotoChange_2\PhotoChange_2\main.cpp(12): warning C4101: 'fo': ローカル変数は 1 度も使われていません。
+  myPng.cpp
+C:\Users\user\Desktop\PhotoChange_2\PhotoChange_2\myPng.cpp(97): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\user\Desktop\PhotoChange_2\PhotoChange_2\myPng.cpp(154): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\user\Desktop\PhotoChange_2\PhotoChange_2\myPng.cpp(162): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  コードを生成中...
+  PhotoChange_2.vcxproj -> C:\Users\user\Desktop\PhotoChange_2\Debug\PhotoChange_2.exe
